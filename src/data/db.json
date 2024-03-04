@@ -1,0 +1,34 @@
+{
+    "classes"[
+        {
+            "id": 1,
+            "name": "Berserker",
+            "passiva": "Fúria",
+            "iniciante": "",
+            "aspirante": "",
+            "proficiente": "",
+            "perito": "",
+            "mestre": ""
+        },
+        {
+            "id": 2,
+            "name": "Paladino",
+            "passiva": "",
+            "iniciante": "",
+            "aspirante": "",
+            "proficiente": "",
+            "perito": "",
+            "mestre": ""
+        },
+        {
+            "id": 3,
+            "name": "Arcano",
+            "passiva": "",
+            "iniciante": "",
+            "aspirante": "",
+            "proficiente": "",
+            "perito": "",
+            "mestre": ""
+        }
+    ]
+}
