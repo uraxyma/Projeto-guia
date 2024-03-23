@@ -10,4 +10,4 @@ const CharCreate = () => {
   )
 }
 
-export default CharCreate
+export default CharCreate;
